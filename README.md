@@ -5,7 +5,7 @@
 | ------------- | ------------- |------------|
 | Rock Paper Scissors | Rockers | [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07)
 | Video to Slide | Napster  | 
-| Image Cartoonizer | Bastions |  
+| Image Cartoonizer | Bastions |  [Pranav](https://github.com/PranavRajeswari/pyexpo.git)
 | Story and Question Answering |  ..  | 
 | Tic Tac Toe with AI | ..  | 
 | Ask Question on Table | ..  | 
